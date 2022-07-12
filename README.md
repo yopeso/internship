@@ -1,11 +1,8 @@
 # internship
-Nu am nicio idee de ceva amuzant de scris aici :<
-Ati vazut ca a inceput sa ploua?
-
+Alex Alex test
 fdjkfdjkffds
 
 fdsfdsff
-
 fdsfds
 
 fdsfds
@@ -22,3 +19,4 @@ jkj
 #121212
 abcdefg
 12342222
+am pus si eu ceva aici ma scuzati pentru conflicte
